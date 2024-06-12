@@ -12,3 +12,5 @@ At the end of the project, your team should should prepare a short presentation 
 * What words or phrases were most influential on your models' predictions?
 
 **Bonus:** A larger dataset containing 20 additional categories can be downloaded from https://drive.google.com/file/d/1gW6LScUL-Z7mH6gUZn-1aNzm4p4CvtpL/view?usp=share_link. How well do your models work with these additional categories?
+
+Worked on project with Mike Tatar and Prahlad Siwakoti.
